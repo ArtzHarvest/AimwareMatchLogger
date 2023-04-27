@@ -17,7 +17,7 @@ $result2 = $conn->query($sql2);
 </head>
 <body>
     <div id="menu-bar">
-        <img src="https://cdn.aimware.net/asset/img/logo/main-standards.svg" alt="Logo" class="logo">
+        <img src="assets/icons/main-standards.svg" alt="Logo" class="logo">
         <ul class="menu-right">
 			<?php
 				echo '<li><a href=http://'.$_SERVER['HTTP_HOST'].'>Home</a></li>';
