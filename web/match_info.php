@@ -113,7 +113,7 @@ $result2 = $conn->query($sql2);
 							echo "</tr>";
 						}
 					} else {
-						echo "<tr><td colspan='8'>No matches found</td></tr>";
+						echo "<tr><td colspan='8'>No players found</td></tr>";
 						}
 					?>
 				</table>
