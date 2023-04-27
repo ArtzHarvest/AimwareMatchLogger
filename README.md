@@ -24,6 +24,10 @@ To use this project, you'll need a web server running PHP and a MySQL database. 
 # Usage
 Once everything is set up, the Lua script will automatically capture match data (on match_start, round_end and win_panel events) and send it to the PHP website for storage. You can view the match data and player statistics by loading up the website.
 
+# Screenshots
+![Panel Overview](/relative/path/to/img.jpg?raw=true "Panel Overview")
+![Match Overview](/relative/path/to/img.jpg?raw=true "Match Overview")
+
 # Todo
 1. include basic user authentication to keep data secure
 2. maybe admin panel for deleting some stuff
