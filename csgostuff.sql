@@ -19,14 +19,6 @@ SET time_zone = "+00:00";
 /*!40101 SET NAMES utf8mb4 */;
 
 --
--- Datenbank: `csgostuff`
---
-CREATE DATABASE IF NOT EXISTS `csgostuff` DEFAULT CHARACTER SET utf8 COLLATE utf8_general_ci;
-USE `csgostuff`;
-
--- --------------------------------------------------------
-
---
 -- Tabellenstruktur für Tabelle `matches`
 --
 
