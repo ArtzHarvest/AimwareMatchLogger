@@ -27,7 +27,7 @@ $total_pages = ceil($total_matches / $matches_per_page);
 </head>
 <body>
     <div id="menu-bar">
-        <img src="https://cdn.aimware.net/asset/img/logo/main-standards.svg" alt="Logo" class="logo">
+        <img src="assets/icons/main-standards.svg" alt="Logo" class="logo">
         <ul class="menu-right">
             <li class="selected"><a href="#">Home</a></li>
         </ul>
