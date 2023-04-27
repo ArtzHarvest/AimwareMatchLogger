@@ -15,7 +15,7 @@ Provides a simple web interface to view match data and player statistics
 To use this project, you'll need a web server running PHP and a MySQL database. Here are the steps to get started:
 
 1. Download this repository and upload it to your web server.
-2. Edit the config.php file in the website directory with your MySQL database credentials and site information.
+2. Edit the config.php file in the website directory with your MySQL database credentials.
 3. Create a new MySQL database and import the csgostuff.sql file in the database directory.
 4. Copy the lua to your Aimware Lua directory.
 5. Replace the URL in the MatchLoggerScript.lua script with the URL of your website.
