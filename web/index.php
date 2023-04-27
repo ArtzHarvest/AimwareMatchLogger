@@ -22,7 +22,7 @@ $total_pages = ceil($total_matches / $matches_per_page);
 <html>
 <head>
 	<title>Aimware Match Stats</title>
-	<link rel="icon" type="image/png" href="http://cdn.aimware.net/asset/img/favicon.svg">
+	<link rel="icon" type="image/png" href="assets/icons/favicon.svg">
 	<link rel="stylesheet" href="assets/style.css">
 </head>
 <body>
