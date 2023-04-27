@@ -25,6 +25,7 @@ To use this project, you'll need a web server running PHP and a MySQL database. 
 1. when the game crashes won rounds reset
 2. when reconnecting stats wont update properly (relies on the 1. because every time you connect you get a new matchid)
 3. when watching matches (your own demo) it also adds an entry with all stats and rounds (for 1 team)
+4. only works on Wingman and Competitive
 
 # Usage
 Once everything is set up, the Lua script will automatically capture match data (on match_start, round_end and win_panel events) and send it to the PHP website for storage. You can view the match data and player statistics by loading up the website.
