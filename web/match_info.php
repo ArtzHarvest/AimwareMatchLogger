@@ -12,7 +12,7 @@ $result2 = $conn->query($sql2);
 <html>
 <head>
 	<title>Aimware Match Stats</title>
-	<link rel="icon" type="image/png" href="http://cdn.aimware.net/asset/img/favicon.svg">
+	<link rel="icon" type="image/png" href="assets/icons/favicon.svg">
 	<link rel="stylesheet" href="assets/style.css">
 </head>
 <body>
